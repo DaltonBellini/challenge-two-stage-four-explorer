@@ -6,7 +6,7 @@
 - Operadores comparativos;<br>
 </aside>
 <p>
-Nesse desafio você irá criar uma lista de **estudantes** e, cada estudante dentro dessa lista, deverá conter os seguintes dados:<br>
+<br>Nesse desafio você irá criar uma lista de **estudantes** e, cada estudante dentro dessa lista, deverá conter os seguintes dados:<br>
 
 - nome;<br>
 - nota da primeira prova;<br>
